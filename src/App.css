@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.link{
+  text-decoration: none;
+  color:rgb(236, 226, 226) ;
+  float: right; 
+  font-size: 13px;
+  font-weight: bold;
+ font-family:  "Roboto", "Helvetica", "Arial", sans-serif;
+
+}
+ .MuiAppBar-colorPrimary {
+  color: rgb(243, 226, 226) !important;
+  background-color:rgb(109, 113, 114) !important;
+} 
+/* .MuiButton-containedPrimary {
+  color: #fff;
+  background-color:rgb(88, 85, 85) !important
+}
+.MuiButton-containedSecondary {
+  color: #fff;
+  background-color:rgb(88, 85, 85) !important;
+}
+.p1{
+  font-weight: bold;
+  font-family:  "Roboto", "Helvetica", "Arial", sans-serif;
+  text-decoration: none;
+}  */
